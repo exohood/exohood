@@ -1,8 +1,4 @@
-- 👋 Hi, I'm Exohood Digital Decentralized Autonomous Organization Project. Allows users to earn rewards by providing liquidity using the (EXO) token. You can achieve this with a simple Binance Smart Chain in JulWallet, TrustWallet, or MetaMask. Furthermore, Exohood is one of many decentralized applications (dApps) that form the Binance ecosystem. In parallel, Exohood is building a fully decentralized and democratized AMM that puts the community's interests first Called (The Merry Outlaws Community).
-- 👀 I’m interested in DeFi, dApps, AMM and DEX.
-- 🖥 Token Contract: 0x7d10b6157c7c577caa62d319dc215209cf2db8c3
-- 🪙 Symbol: EXO
-- 🔗 Network: Binance Smart Chain (BSC)
+- Exohood is an noncustodial automated protocol which generates value for the decentralized finance ecosystem through services and solutions that help accelerate the massive adoption of cryptocurrencies. Exohood is fed through a self-management system thanks to the collaboration of our developer team on Github.
 - 📫 How to reach me: hello@exohood.com
 
 <!---

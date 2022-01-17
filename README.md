@@ -1,4 +1,5 @@
 - Exohood is an noncustodial automated protocol which generates value for the decentralized finance ecosystem through services and solutions that help accelerate the massive adoption of cryptocurrencies. Exohood is fed through a self-management system thanks to the collaboration of our developer team on Github.
+- Website: www.exohood.com / www.exohood.org
 - 📫 How to reach me: hello@exohood.com
 
 <!---

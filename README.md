@@ -1,3 +1,5 @@
+![Title](exohood.png)
+
 # Exohood Protocol
 
 - Exohood is an open source protocol on github that generates value for the decentralized ecosystem through building applications, games, services and solutions.

@@ -8,13 +8,23 @@
 
 - Exohood is an organization represented by rules encoded as a transparent computer program, controlled by the organization members, and not influenced by a central government. A DAO's financial transaction record and program rules are maintained on a blockchain.
 
-# Is Exohood Audit?
+# How to start build?
 
-- Exohood is audited by Intercer and LL-C.
+- If you want to start collaborate or create a project in our protocol, you can use our different available learning resources in our library about computer programming, math, science and finance.
 
-# How is work the Exohood team?
+# How to contribute?
 
-- We are a team spread worldwide, and decentralization is our goal. We are grateful to all of our community so far. To help Exohood maintain and build better products, we have decided to accept donations; we need to keep the ecosystem running, servers, marketing, advisors, and third-party services.
+- This project follows the all-contributors specification. Contributions of any kind are welcome!
+
+# How updates are made to the Protocol?
+
+- Create a new issue; Comment on the issue (if you'd like to be assigned to it) - that way, our team can give the issue to you.
+
+- Fork the repository (repo).
+
+- Set up your local environment (optional); If you're ready to contribute and create your PR, it will help set up a local environment to see your changes.
+
+- Wait for review; Our team reviews every PR. Acceptable PRs will be approved & merged into the dev branch.
 
 # Social Media
 

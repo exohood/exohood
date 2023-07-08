@@ -1,6 +1,6 @@
 ![Title](image.png)
 
-# Exohood Labs
+# Exohood
 
 - Exohood is an open-source software platform on GitHub that leverages blockchain technology, AI, VR, and tools to generate value within a dynamic network. It empowers the development of innovative applications, games, services, and solutions, fostering collaboration and driving the evolution of the interconnected network.
 

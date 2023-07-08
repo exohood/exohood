@@ -1,12 +1,12 @@
 ![Title](image.png)
 
-# Exohood Protocol
+# Exohood Labs
 
-- Exohood is an open source protocol on github that generates value for the decentralized ecosystem through building applications, games, services and solutions.
+- Exohood is an open-source software platform on GitHub that leverages blockchain technology, AI, VR, and tools to generate value within a dynamic network. It empowers the development of innovative applications, games, services, and solutions, fostering collaboration and driving the evolution of the interconnected network.
 
 # How Exohood Works?
 
-- Exohood is an organization represented by rules encoded as a transparent computer program, controlled by the organization members, and not influenced by a central government. A DAO's financial transaction record and program rules are maintained on a blockchain.
+- Exohood is an organization represented by rules encoded as a transparent computer program, controlled by the organization members, and not influenced by a central government. 
 
 # How to start build?
 
@@ -28,9 +28,9 @@
 
 # Social Media
 
-- 🌐 Website: www.exohood.com / www.exohood.org
-- 📫 E-mail: hello@exohood.com
-- 🐥 Twitter: www.twitter.com/exohoodofficial
+- 🌐 Website: www.exohood.com
+- 📫 E-mail: support@exohood.com
+- 🐥 Twitter: exohoodofficial
 
 <!---
 exohood/exohood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

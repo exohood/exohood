@@ -1,4 +1,4 @@
-![Title](exohood.png)
+![Title](image.png)
 
 # Exohood Protocol
 

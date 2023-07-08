@@ -6,7 +6,7 @@
 
 # How Exohood Works?
 
-- Exohood is an organization represented by rules encoded as a transparent computer program, controlled by the organization members, and not influenced by a central government. 
+- Exohood is an organization represented by rules encoded as a transparent computer program, controlled by the organization members, and free from the influence of a central authority.
 
 # How to start build?
 

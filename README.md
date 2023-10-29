@@ -2,7 +2,7 @@
 
 # Exohood City Project
 
-- Exohood City is an open-source software platform on GitHub that leverages blockchain technology, AI, VR, and tools to generate value within a dynamic network. It empowers the development of innovative applications, games, services, and solutions, fostering collaboration and driving the evolution of the interconnected network.
+- Exohood City is an open source project dedicated to creating and distributing cutting edge software and applications using Quantum Computing, Blockchain, AI, VR, and AR technology. It's a participatory platform where developers, marketers, testers, and idea contributors can all actively engage. We believe in the positive impact of technology on our lives, and that's why we're enthusiastic about Quantum Computing, Blockchain, AI, VR, and AR, which will drive the future of innovation.
 
 # How Exohood Works?
 

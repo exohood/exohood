@@ -1,6 +1,10 @@
 # Introduction
 
-At Exohood Labs, we harness the capabilities of quantum computing, blockchain and AI to contribute to a sustainable and inclusive world. Our unique model, OpenExus, embodies this approach, functioning as a collaborative platform for shared technological progress. It's not just a call for participation but a declaration of our method working openly and inclusively to impact society, the environment, and individual lives positively. OpenExus is where we put our ethos into practice, creating technology with purpose.
+Our R&D organization boasts a seasoned team with 30 years of cumulative experience, driving innovation across a spectrum of industries. This rich history of technological breakthroughs and research excellence has profoundly impacted everyday life, enhancing experiences at home, work, school and play.  
+
+From our bases in Palo Alto, London, Hong Kong, and Tokyo, our diverse and talented teams foster cross disciplinary collaboration. We embrace an integrated approach to tackle global challenges head on, supported by over 500 dedicated collaborators through our innovative OpenExus program.  
+
+Our areas of expertise include AI, quantum computing, blockchain, education, biomedicine, space exploration, energy and robotics. We are committed to pioneering new industries and aim to create billions in market value, ensuring our contributions have lasting benefits for society.
 
 # OpenExus: Our Model Explained
 

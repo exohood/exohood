@@ -4,7 +4,7 @@ Welcome to Exohood Labs organization on GitHub where we love all things open sou
 
 * 🌐 4+ years in open source. [Read our manifesto](https://exohood.com/exohood-labs-manifesto/)
 * :books: A complete open library for learning. [How we do open source](https://exohood.com/open-library/)
-* :office: 500 commits per month. [Where we are working on](https://exohood.com/sandbox/)
+* :office: 500 commits per month. [What we are working on](https://exohood.com/sandbox/)
 * :octocat: +100 GitHub repositories. Search below!
 * 🔭 Learn about our approach to [Open Technology](https://exohood.com/about-us/)
 
